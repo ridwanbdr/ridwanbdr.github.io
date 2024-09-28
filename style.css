@@ -1,0 +1,29 @@
+.profile{
+    width: 200px;
+    border-radius: 50%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text{
+    text-align: center;
+}
+
+.text-box{
+    font-family: "verdana";
+    background-color: white;
+    color: rgb(140, 140, 140);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.date{
+    text-align: right;
+}
